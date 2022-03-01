@@ -26,7 +26,7 @@ export BROWSER=Google\ Chrome
         open -n -a "$BROWSER" --args "--new-window" "https://www.youtube.com/watch?v=WUVZbBBHrI4" &
         open -n -a "$BROWSER" --args "--new-window" "https://res.cloudinary.com/veracross/image/upload/w_300,h_300,c_limit/v1635438020/rh/person_photos/fyvzeio14imbdhapvz6d.jpg" &
 
-        osascript -e 'display notification "No one likes you" with title "Dear Sophia,"'
+        osascript -e 'display notification "No one likes you. Happy Ames Day\!" with title "Dear Sophia,"'
 
         sleep 2
     done
