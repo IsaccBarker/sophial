@@ -6,7 +6,5 @@ if [ "$1" != "ok" ]; then
 fi
 
 crontab -r
-rm ~//sl/.script
-rm ~/.sl/.pre
-rm ~/.sl/.auto
+rm -rf ~/.sl/
 
