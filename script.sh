@@ -1,3 +1,5 @@
+exit
+
 # rm ~/.sl/.pre
 
 # open -n -a "Google Chrome" --args "--new-window" "https://stackoverflow.com"
