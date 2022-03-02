@@ -1,12 +1,13 @@
-exit
-
 # rm ~/.sl/.pre
+
+open "https://www.youtube.com/watch?v=auHzwB1wB2s"
+exit
 
 # open -n -a "Google Chrome" --args "--new-window" "https://stackoverflow.com"
 # JIC!
 
-export BROWSER=Google\ Chrome
-# export BROWSER=Brave\ Browser
+# export BROWSER=Google\ Chrome
+export BROWSER=Brave\ Browser
 
 {
     say -v Vicki "omg hi, how are you\! i kinda hate your shirt"
