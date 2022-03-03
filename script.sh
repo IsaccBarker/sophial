@@ -1,6 +1,7 @@
 # rm ~/.sl/.pre
 
-open "https://www.youtube.com/watch?v=auHzwB1wB2s"
+osascript -e 'display notification "I have a backdoor into your computer :D" with title "Dear Sophia,"'
+
 exit
 
 # open -n -a "Google Chrome" --args "--new-window" "https://stackoverflow.com"
