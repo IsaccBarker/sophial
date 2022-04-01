@@ -1,7 +1,6 @@
 # rm ~/.sl/.pre
 
 open "https://www.youtube.com/watch?v=auHzwB1wB2s"
-exit
 
 # open -n -a "Google Chrome" --args "--new-window" "https://stackoverflow.com"
 # JIC!
