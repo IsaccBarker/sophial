@@ -2,4 +2,5 @@
 # open -n -a Google\ Chrome --args "--new-window" "https://google.com"
 
 osascript -e 'tell application "Messages" to send "ames day is when ill take aim..." to buddy "Faith Factory"'
+osascript -e 'tell application "Messages" to send "ames day is when ill take aim..." to buddy "Vegas"'
 
